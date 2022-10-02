@@ -1,7 +1,7 @@
 ## Hello World Programs
 
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Hello-World-in-different-languages.svg?logo=git&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages)  [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/pulls)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Hello-World-in-different-languages.svg?logo=git&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/pulls)
 
 
 
@@ -15,7 +15,6 @@
 
 Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
@@ -27,7 +26,7 @@ Thank you for being here! You can find my other project **[here](https://github.
 	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://medium.com/@sonukumarkushwaha"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=YouTube" alt="YouTube"></a>
-	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
 	
 	
 </p>
