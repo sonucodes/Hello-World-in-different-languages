@@ -1,10 +1,6 @@
 ## Hello World Programs
 
-
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Hello-World-in-different-languages.svg?logo=git&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/Hello-World-in-different-languages.svg?logo=github&style=social)](https://github.com/flyingsonu122/Hello-World-in-different-languages/pulls)
-
-
-<br><br><br><br>
+<br><br>
 
 
 **&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
